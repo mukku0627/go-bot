@@ -1,0 +1,8 @@
+[Global]
+Channel   = "irc channel."
+NickName  = "bot nickname."
+Name      = "bot name."
+IrcServer = "irc server hostname or ip."
+IrcPort   = "irc server port number."
+IrcPassword = "irc server password."
+MongoServer = "mongodb server hostname or ip."
