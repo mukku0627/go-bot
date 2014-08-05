@@ -6,3 +6,6 @@ IrcServer = "irc server hostname or ip."
 IrcPort   = "irc server port number."
 IrcPassword = "irc server password."
 MongoServer = "mongodb server hostname or ip."
+[Notice]
+Mtg = "Mtg notice comment."
+Doc = "Doc notice comment."
